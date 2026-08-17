@@ -1,6 +1,6 @@
 #include <hellomake.h>
 
-int main() {
+int main(void) {
   // call a function in another file
   myPrintHelloMake();
 
